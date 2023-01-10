@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"scripts": {
+		"build": "npm run fetch && npm run analyze",
+		"fetch": "node --no-warnings get-boosted-creature-data.mjs",
+		"analyze": "node analyze.mjs",
+		"test": "TEST=true node normalize-names.mjs"
+	}
+}
