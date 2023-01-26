@@ -222,7 +222,6 @@
 		"adept of the cult",
 		"amazon",
 		"armadile",
-		"barbarian bloodwalker",
 		"bashmu",
 		"bat",
 		"bear",
@@ -307,6 +306,7 @@
 		"wyrm"
 	],
 	"3": [
+		"barbarian bloodwalker",
 		"broken shaper",
 		"centipede",
 		"chakoya toolshaper",
