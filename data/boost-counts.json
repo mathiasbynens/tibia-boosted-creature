@@ -534,7 +534,6 @@
 		"vampire bride",
 		"vile grandmaster",
 		"wailing widow",
-		"waspoid",
 		"werefox",
 		"wiggler",
 		"wyvern"
@@ -569,7 +568,8 @@
 		"renegade knight",
 		"rot elemental",
 		"spitter",
-		"vampire"
+		"vampire",
+		"waspoid"
 	],
 	"7": [
 		"dragon hatchling",
