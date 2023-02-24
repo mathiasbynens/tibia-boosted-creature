@@ -402,7 +402,6 @@
 		"barbarian brutetamer",
 		"betrayed wraith",
 		"blood beast",
-		"blood crab",
 		"bog raider",
 		"bonelord",
 		"brimstone bug",
@@ -473,6 +472,7 @@
 	],
 	"5": [
 		"assassin",
+		"blood crab",
 		"corym charlatan",
 		"crab",
 		"crypt shambler",
