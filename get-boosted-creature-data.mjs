@@ -15,12 +15,13 @@ const getCreatureBoostInfo = async () => {
 	const boostableCreatures = boostableCreaturesUgly
 		.map(name => pluralizedToPretty(name))
 		.sort(); // Normalization might affect the sort order.
-	const todaysBoostedCreature = data.creatures.boosted.name;
-	return {
+	const todaysBoostedCreature = singularToPretty(data.creatures.boosted.name);
+	const result = {
 		boostableCreaturesUgly,
 		boostableCreatures,
 		todaysBoostedCreature,
-	}
+	};
+	return result;
 };
 
 const {
@@ -43,13 +44,31 @@ await fs.writeFile(
 	stringify(boostableCreatures)
 );
 
+const isoDate = (date) => {
+	return date.toISOString().slice(0, 10);
+};
+
+const getDateIds = () => {
+	const date = new Date();
+	const today = isoDate(date);
+	date.setDate(date.getDate() - 1);
+	const yesterday = isoDate(date);
+	return {
+		yesterday,
+		today,
+	};
+};
+
 {
-	const date = new Date().toISOString().slice(0, 'yyyy-mm-dd'.length);
+	const {yesterday, today} = getDateIds();
 	const HISTORY_FILE_PATH = './data/boosted-creature-history.json';
 	const json = await fs.readFile(HISTORY_FILE_PATH, 'utf8');
 	const boostedCreatureHistory = JSON.parse(json);
-	if (!Object.hasOwn(boostedCreatureHistory, date)) {
-		boostedCreatureHistory[date] = singularToPretty(todaysBoostedCreature);
+	if (boostedCreatureHistory[yesterday] === todaysBoostedCreature) {
+		throw new Error('Upstream website hasn’t updated yet.');
+	}
+	if (!Object.hasOwn(boostedCreatureHistory, today)) {
+		boostedCreatureHistory[today] = todaysBoostedCreature;
 	}
 	await fs.writeFile(
 		HISTORY_FILE_PATH,
