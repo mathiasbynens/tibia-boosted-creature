@@ -592,7 +592,6 @@
 		"gang member",
 		"hunter",
 		"kongra",
-		"metal gargoyle",
 		"mutated rat",
 		"quara constrictor",
 		"quara mantassin",
@@ -601,7 +600,8 @@
 		"werewolf"
 	],
 	"9": [
-		"deepling worker"
+		"deepling worker",
+		"metal gargoyle"
 	],
 	"10": [
 		"dwarf",
