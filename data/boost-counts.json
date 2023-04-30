@@ -590,7 +590,6 @@
 		"dark faun",
 		"elephant",
 		"gang member",
-		"hunter",
 		"kongra",
 		"mutated rat",
 		"quara constrictor",
@@ -601,6 +600,7 @@
 	"9": [
 		"deepling worker",
 		"dworc fleshhunter",
+		"hunter",
 		"metal gargoyle",
 		"sea serpent"
 	],
