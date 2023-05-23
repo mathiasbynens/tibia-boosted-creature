@@ -379,7 +379,6 @@
 	"4": [
 		"arachnophobica",
 		"badger",
-		"bandit",
 		"barbarian brutetamer",
 		"betrayed wraith",
 		"blood beast",
@@ -459,6 +458,7 @@
 		"worm priestess"
 	],
 	"5": [
+		"bandit",
 		"blood crab",
 		"crab",
 		"crypt shambler",
