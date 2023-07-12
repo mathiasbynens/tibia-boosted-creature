@@ -228,7 +228,6 @@
 	"2": [
 		"acolyte of the cult",
 		"adept of the cult",
-		"amazon",
 		"armadile",
 		"barkless devotee",
 		"bashmu",
@@ -301,6 +300,7 @@
 		"yielothax"
 	],
 	"3": [
+		"amazon",
 		"blood hand",
 		"blood priest",
 		"blue djinn",
