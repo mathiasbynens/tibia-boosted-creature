@@ -470,7 +470,6 @@
 		"zombie"
 	],
 	"5": [
-		"bandit",
 		"blood crab",
 		"crypt shambler",
 		"dark magician",
@@ -539,6 +538,7 @@
 		"wyvern"
 	],
 	"6": [
+		"bandit",
 		"barbarian skullhunter",
 		"behemoth",
 		"boogy",
