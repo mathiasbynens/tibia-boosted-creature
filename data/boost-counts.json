@@ -396,7 +396,6 @@
 		"cobra assassin",
 		"cobra vizier",
 		"crazed summer rearguard",
-		"crazed winter vanguard",
 		"cult believer",
 		"deepling scout",
 		"defiler",
@@ -471,6 +470,7 @@
 	],
 	"5": [
 		"blood crab",
+		"crazed winter vanguard",
 		"crypt shambler",
 		"dark magician",
 		"death blob",
