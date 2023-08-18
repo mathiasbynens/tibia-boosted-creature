@@ -567,7 +567,6 @@
 		"nightstalker",
 		"ogre savage",
 		"orc cult fanatic",
-		"orc cultist",
 		"orc marauder",
 		"orc spearman",
 		"orc warlord",
@@ -596,6 +595,7 @@
 		"nightmare scion",
 		"ogre brute",
 		"orc cult minion",
+		"orc cultist",
 		"quara predator",
 		"winter wolf"
 	],
