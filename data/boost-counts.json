@@ -144,7 +144,6 @@
 		"white deer",
 		"white shade",
 		"white tiger",
-		"white weretiger",
 		"wisp",
 		"worker golem"
 	],
@@ -217,7 +216,8 @@
 		"water elemental",
 		"werehyaena shaman",
 		"werelioness",
-		"white lion"
+		"white lion",
+		"white weretiger"
 	],
 	"2": [
 		"acolyte of the cult",
