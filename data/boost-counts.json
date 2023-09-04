@@ -612,7 +612,6 @@
 		"orc rider",
 		"rat",
 		"rotworm",
-		"spitter",
 		"tarantula",
 		"vampire",
 		"werewolf"
@@ -624,7 +623,8 @@
 		"metal gargoyle",
 		"quara constrictor",
 		"quara mantassin",
-		"sea serpent"
+		"sea serpent",
+		"spitter"
 	],
 	"10": [
 		"dwarf",
