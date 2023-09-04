@@ -342,6 +342,7 @@ const normalizedPluralizedToPrettyNames = new Map([
 	['Massive Fire Elementals', 'massive fire elemental'],
 	['Massive Water Elementals', 'massive water elemental'],
 	['Mean Lost Souls', 'mean lost soul'],
+	['Meandering Mushrooms', 'meandering mushroom'],
 	['Medusae', 'medusa'],
 	['Menacing Carnivors', 'menacing carnivor'],
 	['Mercurial Menaces', 'mercurial menace'],
