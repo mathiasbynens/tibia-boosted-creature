@@ -530,8 +530,7 @@
 		"wailing widow",
 		"wereboar",
 		"werefox",
-		"wiggler",
-		"wyvern"
+		"wiggler"
 	],
 	"6": [
 		"bandit",
@@ -576,7 +575,8 @@
 		"troll",
 		"undead gladiator",
 		"vampire bride",
-		"waspoid"
+		"waspoid",
+		"wyvern"
 	],
 	"7": [
 		"assassin",
