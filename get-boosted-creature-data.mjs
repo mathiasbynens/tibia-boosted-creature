@@ -3,7 +3,7 @@ import { singularToPretty, pluralizedToPretty } from './normalize-names.mjs';
 
 const getCreatureBoostInfo = async () => {
 	console.log('Getting list of Tibia creatures + today’s boosted creature…');
-	const response = await fetch('https://api.tibiadata.com/v3/creatures');
+	const response = await fetch('https://api.tibiadata.com/v4/creatures');
 	const data = await response.json();
 	// Note: This is technically a superset of the set of “boostable
 	// creatures”. Still, it’s the closest official approximation we’ve
