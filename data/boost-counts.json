@@ -455,8 +455,7 @@
 		"wilting leaf golem",
 		"witch",
 		"worm priestess",
-		"young sea serpent",
-		"zombie"
+		"young sea serpent"
 	],
 	"5": [
 		"carrion worm",
@@ -525,7 +524,8 @@
 		"wasp",
 		"wereboar",
 		"werefox",
-		"wiggler"
+		"wiggler",
+		"zombie"
 	],
 	"6": [
 		"bandit",
