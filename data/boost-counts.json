@@ -619,7 +619,6 @@
 	"9": [
 		"deepling worker",
 		"dworc fleshhunter",
-		"hunter",
 		"metal gargoyle",
 		"quara constrictor",
 		"quara mantassin",
@@ -628,6 +627,7 @@
 	],
 	"10": [
 		"dwarf",
+		"hunter",
 		"wolf"
 	]
 }
