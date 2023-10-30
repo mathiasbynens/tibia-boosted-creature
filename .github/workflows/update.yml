@@ -5,13 +5,13 @@ on:
     # During CET, run daily at 09:00 UTC (10:00 CET),
     # then again one hour later (in case of weekly server maintenance),
     # and then once more another hour later (in case of long-lasting maintenance).
-    # - cron: '00 09 * * *'
-    # - cron: '00 10 * * *'
-    # - cron: '00 11 * * *'
-    # During CEST, run daily at 08:00 UTC (10:00 CEST).
-    - cron: '00 08 * * *'
     - cron: '00 09 * * *'
     - cron: '00 10 * * *'
+    - cron: '00 11 * * *'
+    # During CEST, run daily at 08:00 UTC (10:00 CEST).
+    #- cron: '00 08 * * *'
+    #- cron: '00 09 * * *'
+    #- cron: '00 10 * * *'
   workflow_dispatch:
 
 jobs:
