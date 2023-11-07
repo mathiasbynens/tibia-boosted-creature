@@ -525,7 +525,6 @@
 		"zombie"
 	],
 	"6": [
-		"bandit",
 		"blood crab",
 		"boogy",
 		"corym charlatan",
@@ -575,6 +574,7 @@
 	],
 	"7": [
 		"assassin",
+		"bandit",
 		"barbarian skullhunter",
 		"behemoth",
 		"carniphila",
