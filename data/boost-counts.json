@@ -622,12 +622,12 @@
 		"metal gargoyle",
 		"quara constrictor",
 		"quara mantassin",
-		"sea serpent",
-		"spitter"
+		"sea serpent"
 	],
 	"10": [
 		"dwarf",
 		"hunter",
+		"spitter",
 		"wolf"
 	]
 }
