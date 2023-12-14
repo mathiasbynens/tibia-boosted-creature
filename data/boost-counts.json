@@ -565,7 +565,6 @@
 		"orc marauder",
 		"orc spearman",
 		"orc warlord",
-		"poacher",
 		"putrid mummy",
 		"quara hydromancer",
 		"quara predator scout",
@@ -602,6 +601,7 @@
 		"ogre brute",
 		"orc cult minion",
 		"orc cultist",
+		"poacher",
 		"spectre",
 		"troll",
 		"winter wolf"
