@@ -608,7 +608,6 @@
 		"banshee",
 		"barbarian headsplitter",
 		"cave rat",
-		"dark faun",
 		"elephant",
 		"gang member",
 		"glooth anemone",
@@ -625,6 +624,7 @@
 		"werewolf"
 	],
 	"9": [
+		"dark faun",
 		"deepling worker",
 		"kongra",
 		"metal gargoyle",
