@@ -616,7 +616,6 @@
 		"rotworm",
 		"tarantula",
 		"troll",
-		"vampire",
 		"werewolf"
 	],
 	"9": [
@@ -629,7 +628,8 @@
 		"quara constrictor",
 		"quara mantassin",
 		"rat",
-		"sea serpent"
+		"sea serpent",
+		"vampire"
 	],
 	"10": [
 		"dwarf",
