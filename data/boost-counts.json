@@ -635,8 +635,10 @@
 		"dwarf",
 		"dworc fleshhunter",
 		"gang member",
-		"hunter",
 		"spitter",
 		"wolf"
+	],
+	"11": [
+		"hunter"
 	]
 }
