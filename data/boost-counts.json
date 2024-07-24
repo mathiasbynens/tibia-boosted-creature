@@ -67,7 +67,6 @@
 		"massive energy elemental",
 		"mega dragon",
 		"midnight panther",
-		"minotaur amazon",
 		"mirror image",
 		"mitmah scout",
 		"monk of the order",
@@ -141,8 +140,6 @@
 		"worker golem"
 	],
 	"1": [
-		"",
-		"acid blob",
 		"afflicted strider",
 		"ancient scarab",
 		"biting book",
@@ -187,7 +184,7 @@
 		"liodile",
 		"meandering mushroom",
 		"mercurial menace",
-		"minotaur amazons",
+		"minotaur amazon",
 		"mitmah seer",
 		"naga archer",
 		"naga warrior",
@@ -206,7 +203,6 @@
 		"spidris",
 		"stampor",
 		"sulphider",
-		"terramites",
 		"terrorsleep",
 		"vibrant phantom",
 		"werehyaena shaman",
@@ -215,6 +211,7 @@
 		"white tiger"
 	],
 	"2": [
+		"acid blob",
 		"adult goanna",
 		"bashmu",
 		"bear",
@@ -348,7 +345,6 @@
 		"squid warden",
 		"stabilizing dread intruder",
 		"swan maiden",
-		"terramite",
 		"tremendous tyrant",
 		"true midnight asura",
 		"tunnel tyrant",
@@ -428,6 +424,7 @@
 		"shark",
 		"streaked devourer",
 		"swarmer",
+		"terramite",
 		"thanatursus",
 		"toad",
 		"tortoise",
