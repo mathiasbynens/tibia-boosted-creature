@@ -282,7 +282,6 @@
 		"acolyte of the cult",
 		"adept of the cult",
 		"amazon",
-		"animated feather",
 		"blue djinn",
 		"boar",
 		"bonebeast",
@@ -351,6 +350,7 @@
 		"wild warrior"
 	],
 	"4": [
+		"animated feather",
 		"arachnophobica",
 		"armadile",
 		"bat",
