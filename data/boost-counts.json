@@ -628,7 +628,6 @@
 		"orc cultist",
 		"orc rider",
 		"renegade knight",
-		"rotworm",
 		"tarantula",
 		"troll",
 		"werewolf"
@@ -646,6 +645,7 @@
 		"quara constrictor",
 		"quara mantassin",
 		"quara predator",
+		"rotworm",
 		"sea serpent",
 		"vampire"
 	],
