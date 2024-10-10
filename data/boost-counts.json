@@ -652,13 +652,13 @@
 	"10": [
 		"dwarf",
 		"gang member",
-		"metal gargoyle",
 		"rat",
 		"spitter",
 		"wolf"
 	],
 	"11": [
 		"dworc fleshhunter",
-		"hunter"
+		"hunter",
+		"metal gargoyle"
 	]
 }
