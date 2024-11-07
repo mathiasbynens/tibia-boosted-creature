@@ -654,12 +654,12 @@
 		"dwarf",
 		"gang member",
 		"rat",
-		"spitter",
 		"wolf"
 	],
 	"11": [
 		"dworc fleshhunter",
 		"hunter",
-		"metal gargoyle"
+		"metal gargoyle",
+		"spitter"
 	]
 }
