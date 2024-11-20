@@ -11,6 +11,8 @@ const getCreatureBoostInfo = async () => {
 	const boostableCreaturesUgly = data.creatures
 		.creature_list
 		.map(entry => entry.name)
+		// https://github.com/TibiaData/tibiadata-api-go/issues/409
+		.filter(name => !/^\s+$/.test(name))
 		.sort();
 	const boostableCreatures = boostableCreaturesUgly
 		.map(name => pluralizedToPretty(name))
