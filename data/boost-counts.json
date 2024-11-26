@@ -1,11 +1,5 @@
 {
 	"0": [
-		"Brinebrute Inferniarches",
-		"Broodrider Inferniarches",
-		"Gorger Inferniarches",
-		"Hellhunter Inferniarches",
-		"Sineater Inferniarches",
-		"Spellreaper Inferniarches",
 		"angry sugar fairy",
 		"arctic faun",
 		"azure frog",
@@ -508,7 +502,6 @@
 		"vile grandmaster",
 		"wailing widow",
 		"war golem",
-		"wasp",
 		"werefox",
 		"werehyaena",
 		"wiggler",
@@ -571,6 +564,7 @@
 		"twisted shaper",
 		"vampire bride",
 		"vulcongra",
+		"wasp",
 		"wereboar",
 		"wyvern",
 		"zombie"
