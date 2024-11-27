@@ -621,7 +621,6 @@
 		"barbarian headsplitter",
 		"cave rat",
 		"crab",
-		"cyclops",
 		"dark apprentice",
 		"elf arcanist",
 		"hero",
@@ -638,6 +637,7 @@
 		"werewolf"
 	],
 	"9": [
+		"cyclops",
 		"dark faun",
 		"deepling worker",
 		"elephant",
