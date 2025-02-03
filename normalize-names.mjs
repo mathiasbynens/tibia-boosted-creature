@@ -479,6 +479,7 @@ const normalizedPluralizedToPrettyNames = new Map([
 	['Quara Raiders', 'quara raider'],
 	['Rabbits', 'rabbit'],
 	['Rage Squids', 'rage squid'],
+	['Ragged Rabid Wolves', 'ragged rabid wolf'],
 	['Rats', 'rat'],
 	['Reality Reavers', 'reality reaver'],
 	['Redeemed Souls', 'redeemed soul'],
