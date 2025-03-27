@@ -613,7 +613,6 @@
 		"barbarian skullhunter",
 		"boogy",
 		"carniphila",
-		"cave rat",
 		"crab",
 		"cyclops smith",
 		"dark apprentice",
@@ -634,6 +633,7 @@
 		"werewolf"
 	],
 	"9": [
+		"cave rat",
 		"cyclops",
 		"dark faun",
 		"deepling worker",
