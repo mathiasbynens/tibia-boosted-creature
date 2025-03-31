@@ -554,7 +554,6 @@
 		"wasp",
 		"wereboar",
 		"witch",
-		"wyvern",
 		"zombie"
 	],
 	"7": [
@@ -603,7 +602,8 @@
 		"spectre",
 		"undead gladiator",
 		"waspoid",
-		"winter wolf"
+		"winter wolf",
+		"wyvern"
 	],
 	"8": [
 		"assassin",
