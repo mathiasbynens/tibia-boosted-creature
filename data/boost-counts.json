@@ -1,5 +1,6 @@
 {
 	"0": [
+		"Monk's Apparitions",
 		"angry sugar fairy",
 		"arctic faun",
 		"azure frog",
@@ -649,8 +650,7 @@
 		"renegade knight",
 		"sea serpent",
 		"swampling",
-		"troll",
-		"vampire"
+		"troll"
 	],
 	"10": [
 		"dwarf",
@@ -660,6 +660,7 @@
 		"nightmare scion",
 		"rat",
 		"rotworm",
+		"vampire",
 		"wolf"
 	],
 	"11": [
