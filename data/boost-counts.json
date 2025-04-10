@@ -630,8 +630,7 @@
 		"orc cultist",
 		"polar bear",
 		"quara hydromancer",
-		"tarantula",
-		"werewolf"
+		"tarantula"
 	],
 	"9": [
 		"cave rat",
@@ -650,7 +649,8 @@
 		"renegade knight",
 		"sea serpent",
 		"swampling",
-		"troll"
+		"troll",
+		"werewolf"
 	],
 	"10": [
 		"dwarf",
