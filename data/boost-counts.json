@@ -665,8 +665,10 @@
 	],
 	"11": [
 		"dworc fleshhunter",
-		"hunter",
 		"metal gargoyle",
 		"spitter"
+	],
+	"12": [
+		"hunter"
 	]
 }
