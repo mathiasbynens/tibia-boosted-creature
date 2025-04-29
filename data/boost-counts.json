@@ -630,7 +630,6 @@
 		"orc cult fanatic",
 		"orc cultist",
 		"polar bear",
-		"quara hydromancer",
 		"tarantula"
 	],
 	"9": [
@@ -644,6 +643,7 @@
 		"orc cult minion",
 		"orc rider",
 		"quara constrictor",
+		"quara hydromancer",
 		"quara mantassin",
 		"quara predator",
 		"quara predator scout",
