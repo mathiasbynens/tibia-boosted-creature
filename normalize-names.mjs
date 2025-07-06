@@ -177,7 +177,7 @@ const normalizedPluralizedToPrettyNames = new Map([
 	['Dread Intruders', 'dread intruder'],
 	['Drillworms', 'drillworm'],
 	['Dromedaries', 'dromedary'],
-	['Druid\'s Apparitions', 'druid’s apparition'],
+	["Druid's Apparitions", 'druid’s apparition'],
 	['Dwarf Geomancers', 'dwarf geomancer'],
 	['Dwarf Guards', 'dwarf guard'],
 	['Dwarf Miners', 'dwarf miner'],
@@ -315,7 +315,7 @@ const normalizedPluralizedToPrettyNames = new Map([
 	['Jungle Moas', 'jungle moa'],
 	['Juvenile Bashmus', 'juvenile bashmu'],
 	['Killer Caimans', 'killer caiman'],
-	['Knight\'s Apparitions', 'knight’s apparition'],
+	["Knight's Apparitions", 'knight’s apparition'],
 	['Knowledge Elementals', 'knowledge elemental'],
 	['Kollos', 'kollos'],
 	['Kongras', 'kongra'],
@@ -384,9 +384,10 @@ const normalizedPluralizedToPrettyNames = new Map([
 	['Misguided Thieves', 'misguided thief'],
 	['Mitmah Scouts', 'mitmah scout'],
 	['Mitmah Seers', 'mitmah seer'],
+	["Monk's Apparitions", 'monk’s apparition'],
 	['Monks Of The Order', 'monk of the order'],
 	['Monks', 'monk'],
-	['Mooh\'tah Warriors', 'mooh’tah warrior'],
+	["Mooh'tah Warriors", 'mooh’tah warrior'],
 	['Moohtants', 'moohtant'],
 	['Mould Phantoms', 'mould phantom'],
 	['Mummies', 'mummy'],
@@ -436,7 +437,7 @@ const normalizedPluralizedToPrettyNames = new Map([
 	['Orclops Ravagers', 'orclops ravager'],
 	['Orcs', 'orc'],
 	['Orewalkers', 'orewalker'],
-	['Paladin\'s Apparitions', 'paladin’s apparition'],
+	["Paladin's Apparitions", 'paladin’s apparition'],
 	['Pandas', 'panda'],
 	['Parders', 'parder'],
 	['Parrots', 'parrot'],
@@ -529,7 +530,7 @@ const normalizedPluralizedToPrettyNames = new Map([
 	['Sons Of Verminor', 'son of Verminor'],
 	['Sopping Carcasses', 'sopping carcass'],
 	['Sopping Corpuses', 'sopping corpus'],
-	['Sorcerer\'s Apparitions', 'sorcerer’s apparition'],
+	["Sorcerer's Apparitions", 'sorcerer’s apparition'],
 	['Soul-broken Harbingers', 'soul-broken harbinger'],
 	['Souleaters', 'souleater'],
 	['Sparkions', 'sparkion'],
@@ -665,7 +666,11 @@ const normalizedSingularToPrettyNames = new Map([
 export const pluralizedToPretty = (uglyPluralName) => {
 	const prettyName = normalizedPluralizedToPrettyNames.get(uglyPluralName);
 	if (!prettyName) {
-		console.log(`Unknown pretty name for uglyPluralName=${JSON.stringify(uglyPluralName)}`);
+		console.log(
+			`Unknown pretty name for uglyPluralName=${JSON.stringify(
+				uglyPluralName,
+			)}`,
+		);
 		return uglyPluralName;
 	}
 	return prettyName;
@@ -674,7 +679,7 @@ export const pluralizedToPretty = (uglyPluralName) => {
 export const singularToPretty = (uglySingularName) => {
 	const prettyName = normalizedSingularToPrettyNames.get(uglySingularName);
 	if (!prettyName) {
-		return uglySingularName.replaceAll('\'', '’').toLowerCase();
+		return uglySingularName.replaceAll("'", '’').toLowerCase();
 	}
 	return prettyName;
 };
@@ -691,14 +696,23 @@ const test = async () => {
 	const UGLY_NAMES = await readUglyNames();
 
 	for (const [uglyName, prettyName] of normalizedPluralizedToPrettyNames) {
-		console.assert(UGLY_NAMES.has(uglyName), `Expected ${uglyName} to appear in list of boostable creatures.`);
+		console.assert(
+			UGLY_NAMES.has(uglyName),
+			`Expected ${uglyName} to appear in list of boostable creatures.`,
+		);
 		if (uglyName !== prettyName) {
-			console.assert(!UGLY_NAMES.has(prettyName), `Expected ${prettyName} to NOT appear in list of ugly boostable creature names.`);
+			console.assert(
+				!UGLY_NAMES.has(prettyName),
+				`Expected ${prettyName} to NOT appear in list of ugly boostable creature names.`,
+			);
 		}
 	}
 
 	for (const name of UGLY_NAMES) {
-		console.assert(normalizedPluralizedToPrettyNames.has(name), `Missing normalization map entry: ${name}`);
+		console.assert(
+			normalizedPluralizedToPrettyNames.has(name),
+			`Missing normalization map entry: ${name}`,
+		);
 	}
 };
 
