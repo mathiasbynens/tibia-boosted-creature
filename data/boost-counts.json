@@ -632,7 +632,6 @@
 	"9": [
 		"cave rat",
 		"cyclops",
-		"dark faun",
 		"deepling worker",
 		"elephant",
 		"ghoul",
@@ -650,6 +649,7 @@
 		"werewolf"
 	],
 	"10": [
+		"dark faun",
 		"dwarf",
 		"gang member",
 		"glooth anemone",
