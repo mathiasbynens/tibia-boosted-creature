@@ -659,7 +659,6 @@
 	],
 	"10": [
 		"dark faun",
-		"deepling worker",
 		"dwarf",
 		"gang member",
 		"ghoul",
@@ -676,6 +675,7 @@
 		"vampire"
 	],
 	"11": [
+		"deepling worker",
 		"glooth anemone",
 		"metal gargoyle",
 		"rat",
