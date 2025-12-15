@@ -608,7 +608,6 @@
 		"spit nettle",
 		"terror bird",
 		"twisted pooka",
-		"vampire bride",
 		"wasp",
 		"waspoid",
 		"wereboar",
@@ -649,7 +648,8 @@
 		"orc cultist",
 		"polar bear",
 		"rot elemental",
-		"undead gladiator"
+		"undead gladiator",
+		"vampire bride"
 	],
 	"9": [
 		"cave rat",
