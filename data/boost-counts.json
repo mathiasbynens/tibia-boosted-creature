@@ -607,7 +607,6 @@
 		"wasp",
 		"waspoid",
 		"wereboar",
-		"witch",
 		"worm priestess",
 		"wyvern"
 	],
@@ -648,7 +647,8 @@
 		"spectre",
 		"undead gladiator",
 		"vampire bride",
-		"winter wolf"
+		"winter wolf",
+		"witch"
 	],
 	"9": [
 		"behemoth",
