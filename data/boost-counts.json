@@ -318,8 +318,7 @@
 		"usurper archer",
 		"vexclaw",
 		"water elemental",
-		"werebear",
-		"yielothax"
+		"werebear"
 	],
 	"4": [
 		"amazon",
@@ -404,7 +403,8 @@
 		"werehyaena shaman",
 		"werelioness",
 		"white lion",
-		"wilting leaf golem"
+		"wilting leaf golem",
+		"yielothax"
 	],
 	"5": [
 		"barbarian brutetamer",
