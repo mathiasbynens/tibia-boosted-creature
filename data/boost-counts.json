@@ -692,7 +692,6 @@
 	],
 	"11": [
 		"deepling worker",
-		"glooth anemone",
 		"metal gargoyle",
 		"quara predator",
 		"rat",
@@ -701,6 +700,7 @@
 	],
 	"12": [
 		"dworc fleshhunter",
+		"glooth anemone",
 		"hunter"
 	]
 }
