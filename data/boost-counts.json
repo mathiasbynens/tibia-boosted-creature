@@ -653,7 +653,6 @@
 	],
 	"9": [
 		"behemoth",
-		"cave rat",
 		"corym charlatan",
 		"cyclops",
 		"elf arcanist",
@@ -671,6 +670,7 @@
 		"werewolf"
 	],
 	"10": [
+		"cave rat",
 		"dark faun",
 		"dwarf",
 		"elephant",
