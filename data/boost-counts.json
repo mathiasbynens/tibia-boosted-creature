@@ -650,7 +650,6 @@
 	"9": [
 		"behemoth",
 		"corym charlatan",
-		"cyclops",
 		"elf arcanist",
 		"frost dragon hatchling",
 		"frost giant",
@@ -671,6 +670,7 @@
 	],
 	"10": [
 		"cave rat",
+		"cyclops",
 		"dark faun",
 		"dwarf",
 		"elephant",
