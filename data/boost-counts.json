@@ -1,7 +1,21 @@
 {
 	"0": [
 		"Gingerbread Men",
+		"Infernoid Blobs",
+		"Infernoid Hounds",
+		"Infernoid Souls",
+		"Infernoid Spirituals",
+		"Lizard Commanders",
+		"Lizard Executioners",
+		"Lizard Henchmans",
+		"Lizard Magicians",
+		"Lizard Swordmasters",
+		"Pirate Cooks",
+		"Pirate Gunners",
+		"Pirate Navigators",
+		"Pirate Quartermasters",
 		"Rabid Wolves",
+		"Sea Captains",
 		"arctic faun",
 		"azure frog",
 		"barkless fanatic",
@@ -255,7 +269,6 @@
 		"sulphider",
 		"true frost flower asura",
 		"undertaker",
-		"venerable girtablilu",
 		"walking pillar",
 		"wandering pillar",
 		"white weretiger"
@@ -314,6 +327,7 @@
 		"tunnel tyrant",
 		"turbulent elemental",
 		"usurper archer",
+		"venerable girtablilu",
 		"vexclaw",
 		"werebear"
 	],
