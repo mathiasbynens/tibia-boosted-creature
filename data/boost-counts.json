@@ -610,8 +610,7 @@
 		"wasp",
 		"waspoid",
 		"wereboar",
-		"worm priestess",
-		"wyvern"
+		"worm priestess"
 	],
 	"8": [
 		"assassin",
@@ -656,7 +655,8 @@
 		"undead gladiator",
 		"vampire bride",
 		"winter wolf",
-		"witch"
+		"witch",
+		"wyvern"
 	],
 	"9": [
 		"corym charlatan",
