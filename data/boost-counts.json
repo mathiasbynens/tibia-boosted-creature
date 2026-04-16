@@ -697,7 +697,6 @@
 		"orc rider",
 		"quara constrictor",
 		"quara predator scout",
-		"renegade knight",
 		"rotworm",
 		"sea serpent",
 		"swampling",
@@ -707,6 +706,7 @@
 	"11": [
 		"deepling worker",
 		"metal gargoyle",
+		"renegade knight",
 		"spitter",
 		"wolf"
 	],
