@@ -653,7 +653,6 @@
 		"undead gladiator",
 		"vampire bride",
 		"winter wolf",
-		"witch",
 		"wyvern"
 	],
 	"9": [
@@ -675,7 +674,8 @@
 		"quara mantassin",
 		"spectre",
 		"tarantula",
-		"werewolf"
+		"werewolf",
+		"witch"
 	],
 	"10": [
 		"behemoth",
