@@ -614,7 +614,6 @@
 		"badger",
 		"bandit",
 		"banshee",
-		"barbarian headsplitter",
 		"barbarian skullhunter",
 		"blood crab",
 		"bog raider",
@@ -655,6 +654,7 @@
 		"wyvern"
 	],
 	"9": [
+		"barbarian headsplitter",
 		"dark monk",
 		"elf arcanist",
 		"energy elemental",
