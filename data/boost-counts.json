@@ -700,7 +700,6 @@
 		"orc cult minion",
 		"orc rider",
 		"quara constrictor",
-		"quara predator scout",
 		"sea serpent",
 		"swampling",
 		"troll",
@@ -709,6 +708,7 @@
 	"11": [
 		"deepling worker",
 		"metal gargoyle",
+		"quara predator scout",
 		"renegade knight",
 		"rotworm",
 		"spitter",
