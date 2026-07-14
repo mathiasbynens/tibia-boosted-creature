@@ -713,7 +713,6 @@
 	],
 	"10": [
 		"behemoth",
-		"cave rat",
 		"corym charlatan",
 		"cyclops",
 		"dark faun",
@@ -737,6 +736,7 @@
 		"vampire"
 	],
 	"11": [
+		"cave rat",
 		"deepling worker",
 		"metal gargoyle",
 		"quara predator scout",
