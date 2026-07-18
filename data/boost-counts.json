@@ -680,8 +680,7 @@
 		"skeleton warrior",
 		"souleater",
 		"vampire bride",
-		"winter wolf",
-		"wyvern"
+		"winter wolf"
 	],
 	"9": [
 		"assassin",
@@ -709,7 +708,8 @@
 		"tarantula",
 		"undead gladiator",
 		"werewolf",
-		"witch"
+		"witch",
+		"wyvern"
 	],
 	"10": [
 		"behemoth",
