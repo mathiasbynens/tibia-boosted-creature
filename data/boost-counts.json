@@ -740,7 +740,6 @@
 		"cave rat",
 		"deepling worker",
 		"metal gargoyle",
-		"quara predator scout",
 		"rotworm",
 		"spitter",
 		"troll",
@@ -748,6 +747,7 @@
 	],
 	"12": [
 		"quara predator",
+		"quara predator scout",
 		"rat",
 		"renegade knight"
 	],
