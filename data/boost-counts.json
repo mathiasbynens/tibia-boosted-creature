@@ -701,7 +701,6 @@
 		"spectre",
 		"tarantula",
 		"undead gladiator",
-		"witch",
 		"wyvern"
 	],
 	"10": [
@@ -727,7 +726,8 @@
 		"sea serpent",
 		"swampling",
 		"vampire",
-		"werewolf"
+		"werewolf",
+		"witch"
 	],
 	"11": [
 		"cave rat",
