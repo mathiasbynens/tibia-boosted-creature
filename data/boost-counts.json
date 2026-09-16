@@ -242,7 +242,6 @@
 		"broodrider inferniarch",
 		"bug",
 		"bulltaur alchemist",
-		"bulltaur brute",
 		"candy horror",
 		"capricious phantom",
 		"cave chimera",
@@ -298,6 +297,7 @@
 	],
 	"3": [
 		"adult goanna",
+		"bulltaur brute",
 		"candy floss elemental",
 		"carnivostrich",
 		"chasm spawn",
