@@ -720,7 +720,6 @@
 		"nightmare scion",
 		"nightstalker",
 		"ogre brute",
-		"orc cult minion",
 		"orc rider",
 		"quara constrictor",
 		"quara hydromancer",
@@ -733,6 +732,7 @@
 	"11": [
 		"cave rat",
 		"metal gargoyle",
+		"orc cult minion",
 		"rotworm",
 		"spitter",
 		"troll",
